@@ -31,7 +31,8 @@ module.exports = appInfo => {
     };
 
     // add your middleware config here
-    config.middleware = [];
+    // 文件名称就是插件名称
+    config.middleware = ['notFoundHandler'];
 
     // add your user config here
     const userConfig = {

@@ -15,6 +15,9 @@ class HomeController extends Controller {
             title,
         });
     }
+    async getNotFound() {
+        this.ctx.status = 404;
+    }
 }
 
 module.exports = HomeController;
