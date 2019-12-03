@@ -18,9 +18,9 @@ class HomeController extends Controller {
     async getNotFound() {
         this.ctx.status = 404;
     }
-    // async getServerError() {
-    //     this.ctx.status = 500;
-    // }
+    async getServerError() {
+        this.ctx.status = 500;
+    }
     // async getToken() {
     //     const count = this.ctx.cookies.get('token', { httpOnly: false, signed: false, encrypt: true });
     //     this.ctx.body = '您的token为:' + count;
