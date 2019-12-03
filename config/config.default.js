@@ -32,7 +32,12 @@ module.exports = appInfo => {
 
     // add your middleware config here
     // 文件名称就是插件名称
-    config.middleware = ['notFoundHandler'];
+    config.middleware = [ 'notFoundHandler' ];
+
+    config.onerror = {
+        // 线上页面发生异常时，重定向到这个页面上
+        errorPageUrl: '../app/view/500.html',
+    };
 
     // add your user config here
     const userConfig = {
