@@ -15,9 +15,9 @@ class HomeController extends Controller {
             title,
         });
     }
-    // async getNotFound() {
-    //     this.ctx.status = 404;
-    // }
+    async getNotFound() {
+        this.ctx.status = 404;
+    }
     // async getServerError() {
     //     this.ctx.status = 500;
     // }
