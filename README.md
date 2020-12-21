@@ -1,6 +1,11 @@
 # Egg-demo
 
+#### 介绍
+egg-demo 集成官网上的一些功能  
+目前包括cookie操作,controller层,service层,404处理,500处理
 
+### author
+zyl
 
 ## QuickStart
 
