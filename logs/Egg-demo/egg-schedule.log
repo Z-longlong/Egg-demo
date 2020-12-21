@@ -1,0 +1,141 @@
+2019-12-02 14:16:01,162 INFO 93154 [Timer] /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 51238840ms at 2019-12-03 04:30:00.002
+2019-12-02 14:16:01,162 INFO 93154 [Timer] /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 35038838ms at 2019-12-03 00:00:00.000
+2019-12-02 14:16:01,163 INFO 93154 [Timer] /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 35039838ms at 2019-12-03 00:00:01.001
+2019-12-02 14:16:01,053 INFO 93162 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-02 14:16:01,053 INFO 93162 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-02 14:16:01,053 INFO 93162 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-02 14:42:25,556 INFO 93261 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-02 14:42:25,556 INFO 93261 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-02 14:42:25,556 INFO 93261 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-02 15:08:22,187 INFO 93445 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-02 15:08:22,187 INFO 93445 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-02 15:08:22,187 INFO 93445 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 14:42:50,463 INFO 1840 [Timer] /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 49629540ms at 2019-12-04 04:30:00.003
+2019-12-03 14:42:50,463 INFO 1840 [Timer] /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 33429537ms at 2019-12-04 00:00:00.000
+2019-12-03 14:42:50,463 INFO 1840 [Timer] /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 33430537ms at 2019-12-04 00:00:01.000
+2019-12-03 14:42:50,352 INFO 1846 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 14:42:50,352 INFO 1846 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 14:42:50,352 INFO 1846 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 15:02:02,831 INFO 2653 [Timer] /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 48477170ms at 2019-12-04 04:30:00.001
+2019-12-03 15:02:02,832 INFO 2653 [Timer] /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 32277169ms at 2019-12-04 00:00:00.001
+2019-12-03 15:02:02,832 INFO 2653 [Timer] /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 32278168ms at 2019-12-04 00:00:01.000
+2019-12-03 15:02:02,744 INFO 2655 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 15:02:02,744 INFO 2655 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 15:02:02,744 INFO 2655 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 15:03:39,833 INFO 2714 [Timer] /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 48380169ms at 2019-12-04 04:30:00.002
+2019-12-03 15:03:39,833 INFO 2714 [Timer] /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 32180167ms at 2019-12-04 00:00:00.000
+2019-12-03 15:03:39,834 INFO 2714 [Timer] /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 32181167ms at 2019-12-04 00:00:01.001
+2019-12-03 15:03:39,782 INFO 2721 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 15:03:39,782 INFO 2721 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 15:03:39,782 INFO 2721 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 15:04:56,760 INFO 2764 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 15:04:56,760 INFO 2764 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 15:04:56,760 INFO 2764 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 15:07:48,384 INFO 2792 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 15:07:48,384 INFO 2792 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 15:07:48,384 INFO 2792 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 15:08:04,638 INFO 2812 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 15:08:04,638 INFO 2812 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 15:08:04,638 INFO 2812 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 15:08:08,916 INFO 2828 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 15:08:08,916 INFO 2828 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 15:08:08,916 INFO 2828 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 15:09:18,421 INFO 2903 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 15:09:18,421 INFO 2903 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 15:09:18,421 INFO 2903 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 15:10:37,015 INFO 2939 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 15:10:37,015 INFO 2939 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 15:10:37,015 INFO 2939 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 15:10:42,807 INFO 2961 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 15:10:42,807 INFO 2961 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 15:10:42,807 INFO 2961 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 15:12:35,222 INFO 3069 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 15:12:35,222 INFO 3069 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 15:12:35,222 INFO 3069 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 15:13:11,860 INFO 3117 [Timer] /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 47808142ms at 2019-12-04 04:30:00.002
+2019-12-03 15:13:11,860 INFO 3117 [Timer] /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 31608140ms at 2019-12-04 00:00:00.000
+2019-12-03 15:13:11,860 INFO 3117 [Timer] /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 31609140ms at 2019-12-04 00:00:01.000
+2019-12-03 15:13:11,805 INFO 3127 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 15:13:11,805 INFO 3127 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 15:13:11,805 INFO 3127 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 15:37:52,751 INFO 3992 [Timer] /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 46327250ms at 2019-12-04 04:30:00.001
+2019-12-03 15:37:52,752 INFO 3992 [Timer] /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 30127249ms at 2019-12-04 00:00:00.001
+2019-12-03 15:37:52,752 INFO 3992 [Timer] /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 30128248ms at 2019-12-04 00:00:01.000
+2019-12-03 15:37:52,640 INFO 3997 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 15:37:52,640 INFO 3997 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 15:37:52,640 INFO 3997 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 15:43:45,676 INFO 4028 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 15:43:45,676 INFO 4028 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 15:43:45,676 INFO 4028 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 15:43:56,573 INFO 4056 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 15:43:56,573 INFO 4056 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 15:43:56,573 INFO 4056 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 15:44:57,015 INFO 4090 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 15:44:57,016 INFO 4090 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 15:44:57,016 INFO 4090 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 15:45:04,214 INFO 4112 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 15:45:04,214 INFO 4112 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 15:45:04,214 INFO 4112 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 15:45:41,491 INFO 4138 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 15:45:41,491 INFO 4138 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 15:45:41,491 INFO 4138 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 15:45:43,455 INFO 4153 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 15:45:43,455 INFO 4153 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 15:45:43,455 INFO 4153 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 16:07:12,210 INFO 4479 [Timer] /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 44567792ms at 2019-12-04 04:30:00.002
+2019-12-03 16:07:12,210 INFO 4479 [Timer] /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 28367790ms at 2019-12-04 00:00:00.000
+2019-12-03 16:07:12,210 INFO 4479 [Timer] /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 28368790ms at 2019-12-04 00:00:01.000
+2019-12-03 16:07:12,100 INFO 4484 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 16:07:12,100 INFO 4484 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 16:07:12,100 INFO 4484 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 16:07:42,082 INFO 4518 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 16:07:42,082 INFO 4518 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 16:07:42,082 INFO 4518 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 16:08:08,225 INFO 4545 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 16:08:08,225 INFO 4545 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 16:08:08,225 INFO 4545 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 16:12:49,098 INFO 4609 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 16:12:49,098 INFO 4609 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 16:12:49,098 INFO 4609 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 16:37:03,396 INFO 4772 [Timer] /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 42776606ms at 2019-12-04 04:30:00.002
+2019-12-03 16:37:03,396 INFO 4772 [Timer] /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 26576604ms at 2019-12-04 00:00:00.000
+2019-12-03 16:37:03,397 INFO 4772 [Timer] /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 26577604ms at 2019-12-04 00:00:01.001
+2019-12-03 16:37:03,282 INFO 4779 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 16:37:03,282 INFO 4779 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 16:37:03,282 INFO 4779 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 16:39:18,182 INFO 4811 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 16:39:18,182 INFO 4811 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 16:39:18,182 INFO 4811 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 16:40:32,035 INFO 4842 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 16:40:32,035 INFO 4842 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 16:40:32,035 INFO 4842 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 16:41:04,777 INFO 4867 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 16:41:04,777 INFO 4867 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 16:41:04,777 INFO 4867 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 16:41:14,686 INFO 4888 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 16:41:14,686 INFO 4888 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 16:41:14,686 INFO 4888 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 16:41:28,662 INFO 4912 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 16:41:28,662 INFO 4912 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 16:41:28,662 INFO 4912 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 16:42:43,549 INFO 4943 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 16:42:43,549 INFO 4943 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 16:42:43,549 INFO 4943 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 16:43:18,983 INFO 4982 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 16:43:18,983 INFO 4982 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 16:43:18,983 INFO 4982 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 16:43:57,167 INFO 5018 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 16:43:57,167 INFO 5018 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 16:43:57,167 INFO 5018 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 16:44:38,989 INFO 5043 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 16:44:38,989 INFO 5043 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 16:44:38,989 INFO 5043 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 16:47:30,975 INFO 5083 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 16:47:30,975 INFO 5083 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 16:47:30,975 INFO 5083 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 16:48:18,589 INFO 5110 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 16:48:18,589 INFO 5110 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 16:48:18,589 INFO 5110 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-03 16:48:48,275 INFO 5128 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-03 16:48:48,275 INFO 5128 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-03 16:48:48,275 INFO 5128 [egg-schedule]: register schedule /Users/zhouyunlong/Desktop/项目/node/Egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
